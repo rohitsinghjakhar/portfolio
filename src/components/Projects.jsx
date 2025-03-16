@@ -22,7 +22,7 @@ export const Projects = () => {
       description: "RoNi Choudhary",
       imgUrl: projImg6,
       projectLink:
-        "https://play.google.com/store/apps/details?id=com.rohitchoudhary.class12thphysicsnotes",
+        "https://play.google.com/store/apps/dev?id=9005912294128711330",
     },
     {
       title: "12th Agriculture Notes App",
