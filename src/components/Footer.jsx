@@ -24,7 +24,6 @@ export const Footer = () => {
                 <a href="https://www.facebook.com/RohitSinghJakhar301021/"><img src={navIcon3} alt="" /></a>
             </div>
             <p>Copyright 2025. All Rights Reserved <strong>Rohit Choudhary</strong> </p>
-            <p>google.com, pub-5521148319441499, DIRECT, f08c47fec0942fa0</p>
           </Col>
         </Row>
       </Container>
